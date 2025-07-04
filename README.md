@@ -1,6 +1,6 @@
 # 🤖 VoxMate: The Voice Assistant
 
-**Leo** is an advanced **Python-based AI voice assistant** designed to streamline tasks, automate workflows, and provide quick responses using voice commands. Built with a modular architecture, Leo offers a wide range of features including web searches, system management, real-time information, and personalized reminders—making it a powerful and customizable assistant for everyday use.
+**VoxMate** is an advanced **Python-based AI voice assistant** designed to streamline tasks, automate workflows, and provide quick responses using voice commands. Built with a modular architecture, Leo offers a wide range of features including web searches, system management, real-time information, and personalized reminders—making it a powerful and customizable assistant for everyday use.
 
 ## ✨ Features
 
@@ -10,7 +10,7 @@
 - **Interactive Functions**: Play Rock-Paper-Scissors, manage personal notes and reminders.
 - **Media Controls**: Control YouTube playback (play, pause, forward, volume control).
 - **Advanced Capabilities**:
-  - Hotword detection ("Leo").
+  - Hotword detection ("VoxMate").
   - Voice feedback on every interaction.
   - Google Translate integration.
   - Scheduling & reminders.
