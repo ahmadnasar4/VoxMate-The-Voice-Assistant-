@@ -1,4 +1,4 @@
-# 🦁 Leo: The Personal Voice Assistant
+# 🤖 VoxMate: The Voice Assistant
 
 **Leo** is an advanced **Python-based AI voice assistant** designed to streamline tasks, automate workflows, and provide quick responses using voice commands. Built with a modular architecture, Leo offers a wide range of features including web searches, system management, real-time information, and personalized reminders—making it a powerful and customizable assistant for everyday use.
 
