@@ -1,0 +1,14 @@
+leo_assistant
+├── main.py                # Main script to initialize and run Leo
+├── core_utils.py          # Combined configuration, speak, listen, and hotword detection
+├── functions
+    ├── greet_user.py          # Greeting and conversation
+    ├── web_search.py          # Web search functions (Google, Wikipedia, YouTube)
+    ├── time_check.py          # Time check function
+    ├── temperature_check.py   # Temperature check function
+    ├── app_management.py      # Open/close apps on PC
+    ├── youtube_control.py     # YouTube playback control (play, pause, etc.)
+    ├── memory.py              # Memory functions (some faults)
+    ├── system_control.py      # System shutdown, restart, etc.
+    ├── internet_speed.py      # Internet speed check
+    ├── game.py                # Simple Rock-Paper-Scissors game
